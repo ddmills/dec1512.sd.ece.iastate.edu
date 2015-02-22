@@ -2,6 +2,7 @@
 <?php include_once 'src/php/parts/header.php'; ?>
 <div class='container'>
   <ul>
+    <li><a href='/docs/report/week-5.pdf'>Week 5</a></li>
     <li><a href='/docs/report/week-4.pdf'>Week 4</a></li>
     <li><a href='/docs/report/week-3.pdf'>Week 3</a></li>
     <li><a href='/docs/report/week-2.pdf'>Week 2</a></li>

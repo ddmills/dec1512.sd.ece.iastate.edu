@@ -37,9 +37,11 @@ body {
   transition  : background-color 0.12s ease-out 0s;
   float       : left;
 }
+
 .nav-item.active {
   background-color : #ccc;
 }
+
 .brand {
   color          : #A22E2A;
   text-transform : uppercase;
@@ -62,4 +64,22 @@ body {
   content : "";
   display : table;
   clear   : both;
+}
+
+.profiles {
+  width : 100%;
+}
+
+.profile {
+  width      : 20%;
+  padding    : 16px;
+  float      : left;
+  text-align : center;
+}
+
+.profile > h4 {
+}
+
+.profile > img {
+  width : 100%;
 }
