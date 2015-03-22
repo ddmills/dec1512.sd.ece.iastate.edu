@@ -5,7 +5,7 @@
   <p> <a href='http://paninij.org/'> PaniniJ </a> </p>
   <div class='row profiles'>
     <div class='profile'>
-      <img src='src/img/hrajan.png'>
+      <img src='src/img/rajan.png'>
       <h4> <a href='http://paninij.org/'>Dr. Hridesh Rajan</a> </h4>
       <p> Project Advisor </p>
     </div>
@@ -25,8 +25,8 @@
       <p> Key Concept Holder </p>
     </div>
     <div class='profile'>
-      <img src='src/img/hrajan.png'>
-      <h4> <a href='http://github.com/kristinclemens'>Kristen Clemens</a> </h4>
+      <img src='src/img/kristin.png'>
+      <h4> <a href='http://github.com/kristinclemens'>Kristin Clemens</a> </h4>
       <p> Communications Lead </p>
     </div>
   </div>
