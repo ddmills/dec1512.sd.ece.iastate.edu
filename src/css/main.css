@@ -28,6 +28,16 @@ body {
   margin-left : -14px;
 }
 
+h1 > small,
+h2 > small,
+h3 > small,
+h4 > small,
+h5 > small,
+h6 > small {
+  color     : #888;
+  font-size : smaller;
+}
+
 .nav-item {
   text-decoration: none;
   padding     : 20px 14px;
@@ -82,4 +92,14 @@ body {
 
 .profile > img {
   width : 100%;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content : " ";
+  display : table;
+}
+
+.clearfix:after {
+  clear : both;
 }

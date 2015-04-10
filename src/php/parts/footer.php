@@ -1,7 +1,9 @@
+      <div class='clearfix'></div>
+    </div>
   </div>
   <footer class='page-footer'>
     <div class='container'>
-      Footer content here&hellip;
+      Group Dec 15-12
     </div>
   </div>
   <!-- STYLES -->

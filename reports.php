@@ -1,5 +1,6 @@
 <?php $active = 'reports'; ?>
 <?php include_once 'src/php/parts/header.php'; ?>
+<h2><i class='fa fa-fw fa-line-chart'></i> Weekly Reports </h2>
 <div class='container'>
   <ul>
     <li><a href='/docs/report/week-8.pdf'>Week 8</a></li>
