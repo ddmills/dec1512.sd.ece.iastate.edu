@@ -25,10 +25,12 @@
     <h4> <a href='http://github.com/TErenberger'>Trey Erenberger</a> </h4>
     <p> Key Concept Holder </p>
   </div>
+<!--
   <div class='profile'>
     <img src='src/img/kristin.png'>
     <h4> <a href='http://github.com/kristinclemens'>Kristin Clemens</a> </h4>
     <p> Communications Lead </p>
   </div>
+-->
 </div>
 <?php include_once 'src/php/parts/footer.php'; ?>
