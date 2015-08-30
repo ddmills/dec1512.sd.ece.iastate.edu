@@ -2,6 +2,12 @@
 <?php include_once './components/header.php'; ?>
 <h2><i class='fa fa-fw fa-line-chart'></i> Weekly Reports </h2>
 <div class='container'>
+  <h3> Semester 2 (Fall) </h3>
+  <ul>
+    <li><a href='/docs/report/week-13.pdf'>Week 13</a></li>
+  </ul>
+
+  <h3> Semester 1 (Spring) </h3>
   <ul>
     <li><a href='/docs/report/week-12.pdf'>Week 12</a></li>
     <li><a href='/docs/report/week-10-11.pdf'>Week 10 &amp; 11</a></li>
