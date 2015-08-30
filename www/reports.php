@@ -1,5 +1,5 @@
 <?php $active = 'reports'; ?>
-<?php include_once 'src/php/parts/header.php'; ?>
+<?php include_once './components/header.php'; ?>
 <h2><i class='fa fa-fw fa-line-chart'></i> Weekly Reports </h2>
 <div class='container'>
   <ul>
@@ -17,4 +17,4 @@
     <li><a href='/docs/report/week-0.pdf'>Week 0</a></li>
   </ul>
 </div>
-<?php include_once 'src/php/parts/footer.php'; ?>
+<?php include_once './components/footer.php'; ?>

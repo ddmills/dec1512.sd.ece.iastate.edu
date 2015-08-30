@@ -1,5 +1,5 @@
 <?php $active = 'documentation'; ?>
-<?php include_once 'src/php/parts/header.php'; ?>
+<?php include_once './components/header.php'; ?>
 <h2><i class='fa fa-fw fa-file-o'></i> Documentation </h2>
 <ul>
   <li><a href='/docs/project/plan-3.pdf'>Project Plan - Iteration 3 <em>*new*</em></a></li>
@@ -8,4 +8,4 @@
   <li><a href='/docs/project/design-2.pdf'>Project Design</a></li>
 
 </ul>
-<?php include_once 'src/php/parts/footer.php'; ?>
+<?php include_once './components/footer.php'; ?>
