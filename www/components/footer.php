@@ -4,7 +4,7 @@
   <footer class='page-footer'>
     <div class='container'>
       <p> Group Dec 15-12 </p>
-      <p> <a href='https://github.com/dwtj/panini'>View @PaniniJ on Github</a> </p>
+      <p> <a href='https://github.com/hridesh/panini'>View @PaniniJ on Github</a> </p>
       <p> <a href='https://github.com/ddmills/dec1512.sd.ece.iastate.edu'>View the code for this website on Github</a> </p>
     </div>
   </div>
