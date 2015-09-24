@@ -4,6 +4,7 @@
 <div class='container'>
   <h3> Semester 2 <small>(Fall)</small> </h3>
   <ul>
+    <li><a href='/docs/report/sem-2/week-4.pdf'>Week 4</a></li>
     <li><a href='/docs/report/sem-2/week-3.pdf'>Week 3</a></li>
     <li><a href='/docs/report/sem-2/week-1.pdf'>Week 1</a></li>
   </ul>
