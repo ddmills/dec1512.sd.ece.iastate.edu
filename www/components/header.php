@@ -2,7 +2,7 @@
 <html lang='en'>
 <head>
   <meta charset='utf-8'>
-  <meta name='description' content='free flashcard application' http-equiv='X-UA-Compatible'>
+  <meta name='description' content='@PaniniJ is a capsule-oriented programming language' http-equiv='X-UA-Compatible'>
   <meta content='width=device-width, initial-scale=1' name='viewport'>
   <title> @PaniniJ &middot; Senior Design Project </title>
   <link sizes='16x16, 32x32, 64x64' type='image/x-icon' rel='icon' href='favicon.ico?v=1'></link>
