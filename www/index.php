@@ -1,9 +1,8 @@
 <?php $active = 'home'; ?>
-<?php include_once 'src/php/parts/header.php'; ?>
+<?php include_once './components/header.php'; ?>
 <h2> @PaniniJ <small>Group Dec1512</small> </h2>
 <p> <strong>Abstract</strong>: This project’s main goal is to provide Java developers with a simple way to safely write concurrent programs using the Panini capsule-oriented programming paradigm. This is achieved by producing a deliverable <code>.jar</code> file that will easily integrate with standard Java workflow and toolchain. The annotation processor in this <code>.jar</code> will be triggered by any standard Java compiler to generate capsules and other artifacts needed for their operation. These capsules will run concurrently in a capsule system. </p>
 
-<p> <a href='http://paninij.org/'> PaniniJ </a> </p>
 <div class='row profiles'>
   <div class='profile'>
     <img src='src/img/rajan.png'>
@@ -33,4 +32,4 @@
   </div>
 -->
 </div>
-<?php include_once 'src/php/parts/footer.php'; ?>
+<?php include_once './components/footer.php'; ?>

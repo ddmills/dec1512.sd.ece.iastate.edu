@@ -20,13 +20,13 @@
         <a class='nav-item <?php echo $active == 'documentation' ? "active" : ''; ?>' href='./documentation.php'>
           Design Documentation
         </a>
-        <a class='nav-item' href='https://github.com/hridesh/panini'>
+        <a class='nav-item' href='https://github.com/hridesh/panini' target='_blank'>
           Github
         </a>
-        <a class='nav-item' href='http://hridesh.github.io/panini/'>
+        <a class='nav-item' href='http://hridesh.github.io/panini/' target='_blank'>
           Manual
         </a>
-        <a class='nav-item' href='http://paninij.org'>
+        <a class='nav-item' href='http://paninij.org' target='_blank'>
           paninij.org
         </a>
       </nav>
